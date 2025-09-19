@@ -1,5 +1,4 @@
 import java.util.Scanner;
-// The Main and inversion is separated for easy to read 
 
 public class Main {
     public static void main(String[] args) {
